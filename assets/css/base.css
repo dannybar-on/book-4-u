@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid #000;
+  outline: none;
+}
+
+header {
+  z-index: 0;
+  color: #000;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+select {
+  width: 200px;
+  height: 25px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+textarea {
+  resize: none;
+}

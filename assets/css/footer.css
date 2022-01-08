@@ -1,0 +1,8 @@
+footer p {
+  color: #464545;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px 0;
+  font-size: 1.5rem;
+}

@@ -1,0 +1,15 @@
+.filters,
+input {
+  font-size: 1.3rem;
+}
+
+.filters {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.filters > * {
+  margin-bottom: 20px;
+}
